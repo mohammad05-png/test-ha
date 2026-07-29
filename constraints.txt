@@ -1,7 +1,0 @@
- x1 = "Hello, python World!"
- print(x1)
- x2 = input("Enter your message: ")
-  print(x2)
- requirements.txt
-
-ُ
