@@ -4,3 +4,4 @@ dic= {
 "name": "mmad", "age": 20, "family": "zare" 
 }
 print(dic['name'])
+print(type(dic))
