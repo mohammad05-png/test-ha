@@ -8,3 +8,4 @@ print(type(dic))
 name = "mmad"
 family = "zare"
 print(name + " " + family)
+print(type(name))
